@@ -26,15 +26,15 @@ Senior Standing || (Coach Approval && Instructor Approval)
 
 By the end of the course, students will be able to:
 
-1. Communicate their thought process as they code
+1. Communicate thought process as they code
 2. Implement and test algorithms by hand
 3. Evaluate algorithms for time and space complexity (Big O)
 4. Design and discuss improvements to existing algorithms
 5. Compare and contrast different data structures and what they are best for
 6. Confidently participate in technical interviews
-7. Identify their existing areas for improvement
+7. Identify existing areas for improvement
 
-## Schedule
+<!-- ## Schedule
 
 **Course Dates:** Monday, October 22 – Wednesday, December 12, 2018
 
@@ -72,18 +72,13 @@ By the end of the course, students will be able to:
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 [Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
+[Lesson 14]: Lessons/Lesson14.md -->
 
 ## Class Assignments
+
 All in-class and take-home assignments are geared towards identifying and then putting into practice key skills and techniques for mastering technical interviews.
 
-### Tutorials
-TBD
-
-### Projects
-TBD
-
-### Other assignments
+### Other Assignments
 
 - Technical interview drills, full-length and partial
 - Reading and review of useful techniques and skills
@@ -113,21 +108,3 @@ shouldISkipMyInterview(reason) {
   // otherwise, return false
 }
 ```
-
-Attendance requirements for scheduled sessions are:
-
-- No more than two no call no shows per term in any scheduled session.
-- No more than four excused absences per term in any scheduled session.
-
-Failure to meet these requirements will result in a PIP (Participation Improvement Plan). Failure to improve after the PIP will result in not being invited back next term.
-
-## Make School Course Policies
-
-[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accommodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
-[Attendance Policy]()
-[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
-[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
-<br>
-[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
-[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
